@@ -36,30 +36,7 @@ public class CalculatorTest {
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    //Create a Calculator class. This should have functions for Add, Subtract, Multiply and Divide, each taking in two integers to perform the calculations on.
 
 
 }
