@@ -12,9 +12,7 @@ public class WaterBottleTest {
 
 
     @Before
-    public void before() {
-        testWaterBottle = new WaterBottle(100);
-    }
+    public void before() { testWaterBottle = new WaterBottle(100); }
 //The volume should start at 100.
 
     @Test

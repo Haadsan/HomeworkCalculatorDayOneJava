@@ -1,9 +1,10 @@
-//Create a water bottle class with a volume property.
+
 
 public class WaterBottle {
 
     private int volume;
 
+    //Create a water bottle class with a volume property.
 
     public WaterBottle(int volume){
         this.volume = volume;

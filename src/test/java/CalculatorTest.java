@@ -12,9 +12,7 @@ public class CalculatorTest {
 
 
     @Before
-    public void before(){
-        testCalculator = new Calculator(6, 2);
-    }
+    public void before(){ testCalculator = new Calculator(6, 2); }
 
 
     @Test

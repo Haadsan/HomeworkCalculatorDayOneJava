@@ -9,19 +9,19 @@ public class Calculator {
         this.number2 = number2;
     }
 
-    public int getAdd(){
+    public int add(){
         return this.number1+this.number2;
     }
 
-    public int getMultiply(){
+    public int multiply(){
         return this.number1*number2;
     }
 
-    public int getDivide(){
+    public int divide(){
         return this.number1/number2;
     }
 
-    public int getSubtract(){
+    public int subtract(){
         return this.number1-this.number2;
     }
 
